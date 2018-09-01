@@ -3,4 +3,7 @@ This repository contains projects, which were implemented during course "Data An
 
 Course web-page: https://goo.gl/eNrJPC
 
-## Some of the solutions will be updated + translation of comments is required
+## Repository contains 7 tasks, each task contains:
+* Task statement
+* Data to analyze
+* Solutions as .ipynb files
